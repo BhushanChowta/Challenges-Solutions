@@ -5,3 +5,4 @@ class Solution:
         rev_string=''.join(reversed(strg))
 
         return strg==rev_string
+    
