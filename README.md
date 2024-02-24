@@ -1,3 +1,3 @@
-# LeetCode Solutions
+# Challenge Solutions
 
 ## Blind 75 Problems
