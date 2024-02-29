@@ -11,7 +11,6 @@ class Solution(object):
         
         len=0
         hasOddFreq=False
-
         for count in freq.values():
             if count % 2 == 0:
                 len+=count
