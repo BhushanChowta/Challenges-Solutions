@@ -9,7 +9,7 @@ class Solution(object):
         for c in s:
             freq[c]=freq.get(c,0)+1
         
-        len=0
+        len=0 
         hasOddFreq=False
         for count in freq.values():
             if count % 2 == 0:
