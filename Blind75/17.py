@@ -1,5 +1,7 @@
 #206
-# Definition for singly-linked list.
+
+# Definit
+# ion for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
