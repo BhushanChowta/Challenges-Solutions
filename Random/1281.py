@@ -12,6 +12,5 @@ class Solution(object):
             prod=prod*d
             sum=sum+d
             n=n/10
-        
         return prod-sum
         
