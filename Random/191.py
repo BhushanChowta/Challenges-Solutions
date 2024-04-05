@@ -9,5 +9,4 @@ class Solution(object):
             if n&1==1:
                 cnt+=1
             n=n>>1
-
         return cnt
