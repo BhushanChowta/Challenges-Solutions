@@ -13,3 +13,4 @@ class Solution(object):
         
         # After division, if n becomes 1, it's a power of two
         return n == 1
+
