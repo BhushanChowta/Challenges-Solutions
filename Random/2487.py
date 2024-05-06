@@ -12,7 +12,7 @@ class Solution(object):
         if not head: return None
         head.next = self.removeNodes(head.next)
         if head.next and head.val < head.next.val:
-            #f the current node's value is less than the next node's value,
+            # If the current node's value is less than the next node's value,
             # it updates the current node's next pointer to skip the next node.
             return head.next
         return head
