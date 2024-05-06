@@ -16,4 +16,3 @@ class Solution(object):
             # it updates the current node's next pointer to skip the next node.
             return head.next
         return head
-        
