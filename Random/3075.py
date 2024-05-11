@@ -11,4 +11,3 @@ class Solution(object):
             if happiness[i] - i > 0:
                 total += happiness[i] - i
         return total
-        
