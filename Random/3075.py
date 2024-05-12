@@ -10,4 +10,4 @@ class Solution(object):
         for i in range(k):
             if happiness[i] - i > 0:
                 total += happiness[i] - i
-        return total
+        return total 
