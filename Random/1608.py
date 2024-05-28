@@ -6,4 +6,4 @@ class Solution:
             cnt = sum(1 for num in nums if num >= x)
             if cnt == x:
                 return x
-        return -1
+        return -1 
